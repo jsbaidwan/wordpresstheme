@@ -1,5 +1,5 @@
 <footer>
-    <p>footer goes here</p>
+    <p>footer will be here</p>
 </footer>
 </body>
 </html>
