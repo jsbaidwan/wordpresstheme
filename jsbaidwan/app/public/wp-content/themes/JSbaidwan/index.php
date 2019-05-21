@@ -1,5 +1,14 @@
 <?php get_header(); ?>
 
-<h1>index.php</h1>
+
+<?php     // Display posts using loop
+  while(have_posts()) {
+      the_post();
+?>
+  <h3><?php the_title(); ?></h3>
+
+<?php
+  }
+?>
 
 <?php get_footer(); ?>
