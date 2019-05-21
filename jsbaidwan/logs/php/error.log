@@ -1,0 +1,4 @@
+[21-May-2019 19:14:53 UTC] PHP Warning:  get_headers() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/JSbaidwan/index.php on line 1
+[21-May-2019 19:15:55 UTC] PHP Warning:  get_headers() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/JSbaidwan/index.php on line 1
+[21-May-2019 19:15:59 UTC] PHP Warning:  get_headers() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/JSbaidwan/index.php on line 1
+[21-May-2019 19:16:11 UTC] PHP Warning:  get_headers() expects at least 1 parameter, 0 given in /app/public/wp-content/themes/JSbaidwan/index.php on line 1
