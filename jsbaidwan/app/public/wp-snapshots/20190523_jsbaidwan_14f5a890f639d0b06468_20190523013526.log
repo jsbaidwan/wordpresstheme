@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 23, 2019 1:36 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.14
+WORDPRESS:	5.2.1
+PHP INFO:	7.2.9 | SAPI: fpm-fcgi
+SERVER:		nginx/1.14.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+SQL CREATED: 20190523_jsbaidwan_14f5a890f639d0b06468_20190523013526_database.sql 
+SQL FILE SIZE: 106.87KB (109434) 
+SQL FILE TIME: 2019-05-23 01:36:00 
+SQL RUNTIME: 0.49 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /app/public 
+ARCHIVE FILE: 20190523_jsbaidwan_14f5a890f639d0b06468_20190523013526_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	50.19MB 
+STATS:	Dirs 244 | Files 2,134 
+SQL ADDED: 20190523_jsbaidwan_14f5a890f639d0b06468_20190523013526_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2378
+    [filename] => /app/public/wp-snapshots/tmp/20190523_jsbaidwan_14f5a890f639d0b06468_20190523013526_archive.zip
+    [comment] => 
+)
+ 
+FILE ADDED TO ZIP: 2377 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 18.28MB 
+ARCHIVE RUNTIME: 10.21 sec. 
+MEMORY STACK: 54MB 
+building installer 
+add_extra_files1 
+add_extra_files2 
+add_extra_files3 
+add_extra_files4 
+Doing archive file check 
+add_extra_files5 
+add_extra_files6 
+add_extra_files8 
+Successfully opened zip /app/public/wp-snapshots/tmp/20190523_jsbaidwan_14f5a890f639d0b06468_20190523013526_archive.zip 
+Adding enhanced installer files to archive using ZipArchive 
+Installer files added to archive 
+Added to archive 
+After ziparchive close when adding installer 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 106.87KB 
+INSTALLER FILE: 47.4KB 
+ARCHIVE FILE: 19.57MB  
+EXPECTED FILE/DIRECTORY COUNT: 2,378 
+ACTUAL FILE/DIRECTORY COUNT: 2,377 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 11.73 sec.
+PEAK PHP MEMORY USED: 56MB
+DONE PROCESSING => 20190523_jsbaidwan May 23, 2019 1:36 am
+ 

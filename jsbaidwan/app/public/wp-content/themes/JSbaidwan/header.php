@@ -11,5 +11,5 @@
 </head>
 <body>
     <header>
-     <h1>Header will be here</h1>
+     <h1>Demo Website</h1>
     </header>
